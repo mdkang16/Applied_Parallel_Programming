@@ -1,1 +1,1 @@
-Applied Parallel Programming Project from Spring 2019
+Applied Parallel Programming Project 
